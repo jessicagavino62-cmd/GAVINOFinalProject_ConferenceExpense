@@ -1,0 +1,6 @@
+.section-container { text-align: center; padding: 20px; }
+.options-grid { display: flex; justify-content: center; gap: 20px; margin: 20px 0; }
+.card { border: 2px solid #ddd; padding: 20px; border-radius: 8px; cursor: pointer; width: 150px; transition: 0.3s; }
+.card.selected { border-color: #3498db; background: #eaf2f8; }
+.next-btn, .back-btn, .submit-btn { padding: 10px 20px; background: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer; margin: 10px; }
+.btn-group { display: flex; justify-content: center; gap: 10px; }
